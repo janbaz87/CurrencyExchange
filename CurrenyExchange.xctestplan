@@ -1,0 +1,37 @@
+{
+  "configurations" : [
+    {
+      "id" : "9AC85A1E-4DA6-49A8-88DB-3AC9D1EB4B0C",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:CurrenyExchange.xcodeproj",
+      "identifier" : "DF11351D2AF390C700202605",
+      "name" : "CurrenyExchange"
+    }
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:CurrenyExchange.xcodeproj",
+        "identifier" : "DF1135332AF390CD00202605",
+        "name" : "CurrenyExchangeTests"
+      }
+    },
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:CurrenyExchange.xcodeproj",
+        "identifier" : "DF11355C2AF3927300202605",
+        "name" : "NetworkingTests"
+      }
+    }
+  ],
+  "version" : 1
+}

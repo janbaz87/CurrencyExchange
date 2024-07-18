@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>CurrenyExchange.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>isShown</key>
+			<true/>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>Networking.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>isShown</key>
+			<true/>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>DF11351D2AF390C700202605</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>DF1135332AF390CD00202605</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>DF11353D2AF390CE00202605</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>DF1135552AF3927200202605</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>DF11355C2AF3927300202605</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

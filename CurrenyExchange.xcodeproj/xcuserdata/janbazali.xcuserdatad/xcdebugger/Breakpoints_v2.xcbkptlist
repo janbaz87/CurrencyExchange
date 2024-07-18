@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "021F8B8D-4D5D-47F9-B3C7-137423CC498D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E757E48D-18CE-439D-9828-2DE70BA619D3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CurrenyExchange/CurrencyService/CurrencyService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "fetchCurrenciesList()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E42F846E-A8F5-42B7-8BC2-7FE5ECC2FD2B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CurrenyExchange/CurrencyService/CurrencyService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "fetchCurrencyExchangeRates()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E42F846E-A8F5-42B7-8BC2-7FE5ECC2FD2B - cf6cbcdf47bf85ef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in CurrenyExchange.CurrencyService.fetchCurrencyExchangeRates() -&gt; ()"
+                  moduleName = "CurrenyExchange"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janbazali/Library/Containers/com.apple.AppleMediaServicesUI.SpyglassPurchases/Data/file:/Users/janbazali/Projects/CurrenyExchange/CurrenyExchange/CurrencyService/CurrencyService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "323">
+               </Location>
+               <Location
+                  uuid = "E42F846E-A8F5-42B7-8BC2-7FE5ECC2FD2B - cf6cbcdf47bf85ef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in CurrenyExchange.CurrencyService.fetchCurrencyExchangeRates() -&gt; ()"
+                  moduleName = "CurrenyExchange"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janbazali/Library/Containers/com.apple.AppleMediaServicesUI.SpyglassPurchases/Data/file:/Users/janbazali/Projects/CurrenyExchange/CurrenyExchange/CurrencyService/CurrencyService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "394">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F98BF9A0-D905-4237-AF1C-B5270C36EBFA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Networking/URLRequest/URLRequestFactory.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "makeURLRequest(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F98BF9A0-D905-4237-AF1C-B5270C36EBFA - 398546ba20404d41"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Networking.NetworkURLRequestFactory.makeURLRequest&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Networking.URLRequestable&gt;(with: &#x3c4;_0_0) throws -&gt; Foundation.URLRequest"
+                  moduleName = "Networking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janbazali/Library/Containers/com.apple.AppleMediaServicesUI.SpyglassPurchases/Data/file:/Users/janbazali/Projects/CurrenyExchange/Networking/URLRequest/URLRequestFactory.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "2456">
+               </Location>
+               <Location
+                  uuid = "F98BF9A0-D905-4237-AF1C-B5270C36EBFA - aae266c99caca8e9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Networking.URLRequestFactory.makeURLRequest&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Networking.URLRequestable&gt;(with: &#x3c4;_0_0) throws -&gt; Foundation.URLRequest"
+                  moduleName = "Networking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janbazali/Library/Containers/com.apple.AppleMediaServicesUI.SpyglassPurchases/Data/file:/Users/janbazali/Projects/CurrenyExchange/Networking/URLRequest/URLRequestFactory.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "2456">
+               </Location>
+               <Location
+                  uuid = "F98BF9A0-D905-4237-AF1C-B5270C36EBFA - aae266c99caca8e9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Networking.URLRequestFactory.makeURLRequest&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Networking.URLRequestable&gt;(with: &#x3c4;_0_0) throws -&gt; Foundation.URLRequest"
+                  moduleName = "Networking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janbazali/Library/Containers/com.apple.AppleMediaServicesUI.SpyglassPurchases/Data/file:/Users/janbazali/Projects/CurrenyExchange/Networking/URLRequest/URLRequestFactory.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "2560">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3CC85936-1FC6-4C97-BA6D-0C43F9CB11D7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Networking/URLRequest/URLRequestFactory.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "urlRequestForURLEncoding(url:parameters:headers:httpMethod:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3CC85936-1FC6-4C97-BA6D-0C43F9CB11D7 - 535f94082715faa0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Networking.NetworkURLRequestFactory.urlRequestForURLEncoding(url: Foundation.URL, parameters: Swift.Optional&lt;Foundation.Data&gt;, headers: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Swift.String&gt;&gt;, httpMethod: Networking.HTTPMethod) throws -&gt; Foundation.URLRequest"
+                  moduleName = "Networking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janbazali/Library/Containers/com.apple.AppleMediaServicesUI.SpyglassPurchases/Data/file:/Users/janbazali/Projects/CurrenyExchange/Networking/URLRequest/URLRequestFactory.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "2171">
+               </Location>
+               <Location
+                  uuid = "3CC85936-1FC6-4C97-BA6D-0C43F9CB11D7 - 22b433cef27bbcfb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Networking.URLRequestFactory.urlRequestForURLEncoding(url: Foundation.URL, parameters: Swift.Optional&lt;Foundation.Data&gt;, headers: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Swift.String&gt;&gt;, httpMethod: Networking.HTTPMethod) throws -&gt; Foundation.URLRequest"
+                  moduleName = "Networking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janbazali/Library/Containers/com.apple.AppleMediaServicesUI.SpyglassPurchases/Data/file:/Users/janbazali/Projects/CurrenyExchange/Networking/URLRequest/URLRequestFactory.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "2171">
+               </Location>
+               <Location
+                  uuid = "3CC85936-1FC6-4C97-BA6D-0C43F9CB11D7 - 22b433cef27bbcfb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Networking.URLRequestFactory.urlRequestForURLEncoding(url: Foundation.URL, parameters: Swift.Optional&lt;Foundation.Data&gt;, headers: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Swift.String&gt;&gt;, httpMethod: Networking.HTTPMethod) throws -&gt; Foundation.URLRequest"
+                  moduleName = "Networking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janbazali/Library/Containers/com.apple.AppleMediaServicesUI.SpyglassPurchases/Data/file:/Users/janbazali/Projects/CurrenyExchange/Networking/URLRequest/URLRequestFactory.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "2000">
+               </Location>
+               <Location
+                  uuid = "3CC85936-1FC6-4C97-BA6D-0C43F9CB11D7 - 22b433cef27bbcfb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Networking.URLRequestFactory.urlRequestForURLEncoding(url: Foundation.URL, parameters: Swift.Optional&lt;Foundation.Data&gt;, headers: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Swift.String&gt;&gt;, httpMethod: Networking.HTTPMethod) throws -&gt; Foundation.URLRequest"
+                  moduleName = "Networking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janbazali/Library/Containers/com.apple.AppleMediaServicesUI.SpyglassPurchases/Data/file:/Users/janbazali/Projects/CurrenyExchange/Networking/URLRequest/URLRequestFactory.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "2241">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F9F21199-FFB5-4186-884F-A75E7AA36C56"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Networking/URLRequest/URLRequestFactory.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "urlRequestForURLEncoding(url:parameters:headers:httpMethod:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F9F21199-FFB5-4186-884F-A75E7AA36C56 - 535f94082715fbd5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Networking.NetworkURLRequestFactory.urlRequestForURLEncoding(url: Foundation.URL, parameters: Swift.Optional&lt;Foundation.Data&gt;, headers: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Swift.String&gt;&gt;, httpMethod: Networking.HTTPMethod) throws -&gt; Foundation.URLRequest"
+                  moduleName = "Networking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janbazali/Library/Containers/com.apple.AppleMediaServicesUI.SpyglassPurchases/Data/file:/Users/janbazali/Projects/CurrenyExchange/Networking/URLRequest/URLRequestFactory.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "2041">
+               </Location>
+               <Location
+                  uuid = "F9F21199-FFB5-4186-884F-A75E7AA36C56 - 22b433cef27bbd8e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Networking.URLRequestFactory.urlRequestForURLEncoding(url: Foundation.URL, parameters: Swift.Optional&lt;Foundation.Data&gt;, headers: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Swift.String&gt;&gt;, httpMethod: Networking.HTTPMethod) throws -&gt; Foundation.URLRequest"
+                  moduleName = "Networking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janbazali/Library/Containers/com.apple.AppleMediaServicesUI.SpyglassPurchases/Data/file:/Users/janbazali/Projects/CurrenyExchange/Networking/URLRequest/URLRequestFactory.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "2041">
+               </Location>
+               <Location
+                  uuid = "F9F21199-FFB5-4186-884F-A75E7AA36C56 - 22b433cef27bbd8e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Networking.URLRequestFactory.urlRequestForURLEncoding(url: Foundation.URL, parameters: Swift.Optional&lt;Foundation.Data&gt;, headers: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Swift.String&gt;&gt;, httpMethod: Networking.HTTPMethod) throws -&gt; Foundation.URLRequest"
+                  moduleName = "Networking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janbazali/Library/Containers/com.apple.AppleMediaServicesUI.SpyglassPurchases/Data/file:/Users/janbazali/Projects/CurrenyExchange/Networking/URLRequest/URLRequestFactory.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "1870">
+               </Location>
+               <Location
+                  uuid = "F9F21199-FFB5-4186-884F-A75E7AA36C56 - 22b433cef27bbd8e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Networking.URLRequestFactory.urlRequestForURLEncoding(url: Foundation.URL, parameters: Swift.Optional&lt;Foundation.Data&gt;, headers: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Swift.String&gt;&gt;, httpMethod: Networking.HTTPMethod) throws -&gt; Foundation.URLRequest"
+                  moduleName = "Networking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janbazali/Library/Containers/com.apple.AppleMediaServicesUI.SpyglassPurchases/Data/file:/Users/janbazali/Projects/CurrenyExchange/Networking/URLRequest/URLRequestFactory.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "2094">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "633F9C0D-CD2C-48F7-BDB7-A754CC95A1DA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CurrenyExchangeTests/Modules/CurrencyExchange/Helpers/DataSourceDecisionMakerSourceTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "makeDateWith(minutes:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "633F9C0D-CD2C-48F7-BDB7-A754CC95A1DA - fb0a16b585a36bfd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CurrenyExchangeTests.DataSourceDecisionMakerSourceTests.makeDateWith(minutes: Swift.Int) -&gt; Foundation.Date"
+                  moduleName = "CurrenyExchangeTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janbazali/Library/Containers/com.apple.AppleMediaServicesUI.SpyglassPurchases/Data/file:/Users/janbazali/Projects/CurrenyExchange/CurrenyExchangeTests/Modules/CurrencyExchange/Helpers/DataSourceDecisionMakerSourceTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "1370">
+               </Location>
+               <Location
+                  uuid = "633F9C0D-CD2C-48F7-BDB7-A754CC95A1DA - fb0a16b585a365b3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CurrenyExchangeTests.DataSourceDecisionMakerSourceTests.makeDateWith(minutes: Swift.Int) -&gt; Foundation.Date"
+                  moduleName = "CurrenyExchangeTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janbazali/Library/Containers/com.apple.AppleMediaServicesUI.SpyglassPurchases/Data/file:/Users/janbazali/Projects/CurrenyExchange/CurrenyExchangeTests/Modules/CurrencyExchange/Helpers/DataSourceDecisionMakerSourceTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "1370">
+               </Location>
+               <Location
+                  uuid = "633F9C0D-CD2C-48F7-BDB7-A754CC95A1DA - fb0a16b585a365ed"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CurrenyExchangeTests.DataSourceDecisionMakerSourceTests.makeDateWith(minutes: Swift.Int) -&gt; Foundation.Date"
+                  moduleName = "CurrenyExchangeTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janbazali/Library/Containers/com.apple.AppleMediaServicesUI.SpyglassPurchases/Data/file:/Users/janbazali/Projects/CurrenyExchange/CurrenyExchangeTests/Modules/CurrencyExchange/Helpers/DataSourceDecisionMakerSourceTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "1370">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
